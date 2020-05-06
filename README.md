@@ -10,7 +10,7 @@
 
 ## type of api
 * **/retrieve all** - retrieves all the users and their activity period
-* **/<id>** - retries information of specific user using id
+* **/\<id>** - retries information of specific user using id
   
 ## populate data
 * go to root directory
