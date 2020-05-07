@@ -1,7 +1,7 @@
 # full-throttle-labs-api
 
 ## steps to run the project
-* Go to the roo directory
+* Go to the root directory
 * python manage.py makemigrations core
 * python manage.py migrate
 * python manage.py runserver
@@ -14,4 +14,4 @@
   
 ## populate data
 * go to root directory
-* python manage.py populate_py ./testfile/test_data.json
+* `python manage.py populate_py ./testfile/test_data.json`
