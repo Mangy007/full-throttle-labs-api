@@ -14,4 +14,4 @@
   
 ## populate data
 * go to root directory
-* `python manage.py populate_py ./testfile/test_data.json`
+* `python manage.py populate_data ./testfile/test_data.json`
